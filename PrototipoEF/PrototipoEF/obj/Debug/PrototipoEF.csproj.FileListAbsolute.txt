@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\PrototipoEF.exe.config
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\PrototipoEF.exe
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\PrototipoEF.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.MDI.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Properties.Resources.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.exe
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.pdb
