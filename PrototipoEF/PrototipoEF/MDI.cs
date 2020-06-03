@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaDiseno;
 using PrototipoEF.Mantenimientos;
+using PrototipoEF.Procesos;
+using PrototipoEF.Reportes;
 
 namespace PrototipoEF
 {
@@ -95,6 +97,36 @@ namespace PrototipoEF
         private void cuentasToolStripMenuItem_Click(object sender, EventArgs e)
         {
             mant(1);
+        }
+
+        private void pagoDeClienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_PagoClientes pagoClientes = new Frm_PagoClientes();
+            pagoClientes.Show();
+            pagoClientes.TopLevel = false;
+            pagoClientes.TopMost = true;
+            panel1.Controls.Add(pagoClientes);
+        }
+
+        private void pagoAProveedorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_PagoProveedor pagoProveedor = new Frm_PagoProveedor();
+            pagoProveedor.Show();
+            pagoProveedor.TopLevel = false;
+            pagoProveedor.TopMost = true;
+            panel1.Controls.Add(pagoProveedor);
+        }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_reporteCliente reporteCliente = new Frm_reporteCliente();
+            reporteCliente.Show();
+        }
+
+        private void proveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Frm_reporteProveedor reporteProveedor = new Frm_reporteProveedor();
+            reporteProveedor.Show();
         }
     }
 }

@@ -63,6 +63,16 @@ namespace PrototipoEF.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _023_calculator {
+            get {
+                object obj = ResourceManager.GetObject("023-calculator", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _094_hammer_1 {
             get {
                 object obj = ResourceManager.GetObject("094-hammer-1", resourceCulture);

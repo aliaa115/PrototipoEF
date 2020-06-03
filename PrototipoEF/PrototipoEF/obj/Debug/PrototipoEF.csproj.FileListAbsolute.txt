@@ -46,3 +46,14 @@
 \\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csprojAssemblyReference.cache
 \\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csproj.CopyComplete
 \\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Mantenimientos.Frm_mantenimiento.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaVista.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaModelo.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaControlador.dll
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaVista.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaVista.dll.config
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaModelo.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaControlador.pdb
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Procesos.Frm_PagoClientes.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Procesos.Frm_PagoProveedor.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Reportes.Frm_reporteCliente.resources
+\\Mac\Home\Documents\Universidad\9no somestre\042 Ingenieria de Software\Tercer Parcial\git hub\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Reportes.Frm_reporteProveedor.resources

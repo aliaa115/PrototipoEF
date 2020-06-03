@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PrototipoEF
+namespace PrototipoEF.Reportes
 {
-    public partial class Form1 : Form
+    public partial class Frm_reporteProveedor : Form
     {
-        public Form1()
+        public Frm_reporteProveedor()
         {
             InitializeComponent();
         }
