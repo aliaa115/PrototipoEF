@@ -7,18 +7,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaDiseno;
+using PrototipoEF.Mantenimientos;
 
 namespace PrototipoEF
 {
     public partial class MDI : Form
     {
         private int childFormNumber = 0;
-
+        string usuario;
         public MDI()
         {
             InitializeComponent();
         }
 
+        //funcion para mantenimientos
+        private void mant(int tabla)
+        {
+            Frm_mantenimiento mantenimiento = new Frm_mantenimiento(usuario, tabla);
+            mantenimiento.Show();
+            mantenimiento.TopLevel = false;
+            mantenimiento.TopMost = true;
+            panel1.Controls.Add(mantenimiento);
+        }
         private void ShowNewForm(object sender, EventArgs e)
         {
             Form childForm = new Form();
@@ -64,6 +75,26 @@ namespace PrototipoEF
             {
                 childForm.Close();
             }
+        }
+
+        private void seguridadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MDI_Seguridad seguridad = new MDI_Seguridad(Lbl_usuario.Text);
+            seguridad.lbl_nombreUsuario.Text = Lbl_usuario.Text;
+            seguridad.ShowDialog();
+        }
+
+        private void MDI_Load(object sender, EventArgs e)
+        {
+            frm_login login = new frm_login();
+            login.ShowDialog();
+            Lbl_usuario.Text = login.obtenerNombreUsuario();
+            usuario = Lbl_usuario.Text;
+        }
+
+        private void cuentasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            mant(1);
         }
     }
 }
